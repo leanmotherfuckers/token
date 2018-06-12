@@ -13,8 +13,12 @@ Decimals     :    18
 Deployed to  :    0x51e3f0674a2a2AaBfd3bee05A9e4264CdC9901AC
 ```
 
+## Links
 
-### Token handout
+[Etherscan](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5)
+
+
+## Token handout
 
 The supply of 4 (yep, just four!) FUCK tokens have been divided between
 the [#leanmotherfuckers](https://leanmotherfuckers.com) team members. The
