@@ -15,7 +15,7 @@ Deployed to  :    0x51e3f0674a2a2AaBfd3bee05A9e4264CdC9901AC
 
 ## Links
 
-[Etherscan](https://etherscan.io/token/0x168296bb09e24a88805cb9c33356536b980d3fc5)
+[Etherscan](https://etherscan.io/token/0xbaa053968dad8e409faafb30704e1a72dbd120bd)
 
 
 ## Token handout
