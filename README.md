@@ -1,4 +1,4 @@
-# Leanmotherfuckers token
+# #leanmotherfuckers token
 
 Every cool kid is creating their own crytocurrency tokens.
 We're cool too, right? So we also created a token.
