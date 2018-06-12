@@ -6,11 +6,11 @@ We're cool too, right? So we also created a token.
 Guess what it's called.
 
 ```text
-Deployed to :   0x51e3f0674a2a2AaBfd3bee05A9e4264CdC9901AC
-Symbol      :   FUCK
-Name        :   Leanmotherfuckers
-Total supply:   4
-Decimals    :   18
+Name         :    Leanmotherfuckers
+Symbol       :    FUCK
+Total supply :    4
+Decimals     :    18
+Deployed to  :    0x51e3f0674a2a2AaBfd3bee05A9e4264CdC9901AC
 ```
 
 
